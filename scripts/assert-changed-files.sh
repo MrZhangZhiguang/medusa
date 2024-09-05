@@ -1,4 +1,5 @@
 #!/bin/bash
+//test
 
 IS_CI="${CI:-false}"
 GREP_PATTERN=$1
